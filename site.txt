@@ -1,0 +1,20 @@
+https://www.mysqltutorial.org/getting-started-mysql-python-connector/
+https://www.w3schools.com/python/python_mysql_getstarted.asp
+https://brightspace.algonquincollege.com/d2l/le/content/462009/viewContent/7275726/View
+https://brightspace.algonquincollege.com/d2l/le/content/462009/viewContent/7275691/View
+
+https://www.w3schools.com/python/python_classes.asp
+Watch the Ms tutorial on JSON:
+
+https://www.youtube.com/watch?v=KnAyziNnuI0&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=39&t=6s
+https://www.youtube.com/watch?v=1ty7D--lbXU&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=39
+Watch the Ms tutorial on Classes:
+
+https://www.youtube.com/watch?v=0xzbkiLKERM&list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj&index=6
+https://www.youtube.com/watch?v=u4_ALw4KANc&list=PLlrxD0HtieHiXd-nEby-TMCoUNwhbLUnj&index=7
+Watch the Classes lesson on Linked in:
+
+https://www.linkedin.com/learning/python-essential-training-2/creating-a-class?u=2199673
+https://www.linkedin.com/learning/python-essential-training-2/constructing-an-object?u=2199673
+https://www.linkedin.com/learning/python-essential-training-2/class-methods?u=2199673
+https://www.linkedin.com/learning/python-essential-training-2/object-data?u=2199673
